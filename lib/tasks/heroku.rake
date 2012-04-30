@@ -1,5 +1,5 @@
-namespace :clockwork do
-  task :test => :environment do
+namespace :heroku do
+  task :autoscale => :environment do
     
     class CustomLogger < Logger
       def error(e)

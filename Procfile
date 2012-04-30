@@ -1,1 +1,1 @@
-clock: bundle exec rake heroku:autoscale
+worker: bundle exec rake heroku:autoscale

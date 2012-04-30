@@ -1,4 +1,4 @@
 heroku-autoscaler
 =================
 
-Clockworker requests to autoscale Heroku app
+Runs autoscale requests every minute to the Heroku app of your choice.
